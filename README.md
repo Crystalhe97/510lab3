@@ -11,10 +11,11 @@
 
 ## What I have Learned From This Lab
 
-- Finding and copying the detail information's selector
-- Using Beautifulsoup to scrape the website url and some detail information
-- Knowing how to store the data as CSV
+- Using sqlite3 to store engine
+- Using streamlit pydantic package to create form
+- Using streamlit to create a web app that can use to manage tasks (able to choose date, insert text, have filter dropdown, have checkbox, delete tasks )
+
 
 ## Questions / Uncertainties
 
-- Can we get the weather summary without grid point? (only using latitude and longitude)
+- How to adjust column widths as needed?
